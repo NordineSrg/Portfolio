@@ -1,0 +1,44 @@
+body{
+    font-family: roboto;
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 77px;
+    margin-bottom:2px;
+}
+.links_btn, .social
+{
+    color: #f2eafb;
+    font-size: 11PX;
+    display: flex;
+    align-items: center;
+}
+.links_btn h1
+{
+    padding-left: 2cm;
+}
+
+.social img
+{
+    height: 40px;
+    padding-right: 2cm;
+}
+
+main
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Menu_photo
+{
+    max-height: 439PX;
+    width: 33.33%;
+}
+
