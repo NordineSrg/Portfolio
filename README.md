@@ -9,7 +9,7 @@
 
 ![groiupomania](https://github.com/NordineSrg/Portfolio/assets/97751426/22b4ff5e-34e5-4727-a0e3-d607ee6615fc)
 
-![kanap](https://github.com/NordineSrg/Portfolio/assets/97751426/e985d8af-8314-4ba5-8c0e-ad1fa5d797e7)
+![kanap](https://github.com/NordineSrg/Portfolio/assets/97751426/46b61421-4046-43a2-b18e-648450fbf702)
 
 ![la panthere](https://github.com/NordineSrg/Portfolio/assets/97751426/3bfd04b1-e23a-448e-9863-ee3e580906e1)
 
